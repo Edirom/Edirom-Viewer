@@ -3,6 +3,10 @@ Edirom-Viewer
 
 A Java-based software that brings paperbased historic-critical editions of musicians handwritings to the pc.
 
+## Edirom Viewer 1.1.25 (2011-04-26)
+
+* Neues Programm-Icon für den Edirom Updater
+
 ## Edirom Viewer 1.1.24 (2011-02-27)
 
 * Edirom-Link für das Setzen von Einstellungen: `edirom://setPreferences[]` (Beispiel: `edirom://setPreferences[class_de.edirom.Edirom__user.language=de,edition-12345678__language=de]`)
