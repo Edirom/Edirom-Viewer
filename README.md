@@ -3,6 +3,13 @@ Edirom-Viewer
 
 A Java-based software that brings paperbased historic-critical editions of musicians handwritings to the pc.
 
+## Edirom Viewer 1.1.30 (2012-01-05)
+
+* Version 1.6 von MusicalSymbolsTextGrid eingebaut
+* Temporäres Verzeichnis für schreibgeschützte Umgebungen umgestellt (altes Vorgehen verhinderte zwei parallel ausgeführte Edirom-Instanzen)
+* Attributangaben in verschachtelten Links in Texten werden nun korrekt ausgelesen
+* Datumsangaben in Quellen- oder Textmetadaten werden nun sowohl aus einem @when-Attribut und aus dem Inhalt ausgelesen
+
 ## Edirom Viewer 1.1.29 (2011-11-15)
 
 * Alternativtexte für musikalische Sonderzeichen in Anmerkungstooltips nun auch mit Schriftart "MusicalSymbolsTextGrid" möglich
