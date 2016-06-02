@@ -3,6 +3,17 @@ Edirom-Viewer
 
 A Java-based software that brings paperbased historic-critical editions of musicians handwritings to the pc.
 
+## Edirom Viewer 1.1.26 (2011-06-16)
+
+* Englische Hilfe integriert, deutsche überarbeitet
+* Angaben der Quellen in den Tooltips der Anmerkungen wieder aufgenommen
+* Prioritäten werden nun analog zur Darstellung im Quellenfenster auch im Suchfenster nur dann angezeigt, wenn im gesamten Werk mehr als nur eine Priorität genutzt wurde
+* Tooltip für Kategorien in der Toolbar der Quellenfenster nun mit Prefix möglich
+* Dokumente werden nun bei multiplen Links im Dokument (Umgestaltung über IDs und CSS-Klassen) nicht mehrfach neu geladen
+* Umgestaltung über CSS-Klassen nun auch bei mehrfachen Klassen in einem Element möglich
+* Spezielle XML-Zeichen und Maskierungen werden bei Namen und Titeln nun korrekt ausgelesen
+* Bugfixes
+
 ## Edirom Viewer 1.1.25 (2011-04-26)
 
 * Neues Programm-Icon für den Edirom Updater
