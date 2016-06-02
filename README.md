@@ -3,6 +3,10 @@ Edirom-Viewer
 
 A Java-based software that brings paperbased historic-critical editions of musicians handwritings to the pc.
 
+## Edirom Viewer 1.1.28 (2011-09-14)
+
+* Falscher Aufbau der Zip-Archive im Edirom Updater unter Windows behoben
+
 ## Edirom Viewer 1.1.27 (2011-06-28)
 
 * Tooltips der Anmerkungen in Texten sind nun identisch mit denen in den Notentexten
